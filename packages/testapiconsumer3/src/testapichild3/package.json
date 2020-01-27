@@ -1,6 +1,6 @@
 {
   "name": "testapichild3",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "lowest level child 1",
   "main": "dist/index.js",
   "scripts": {
