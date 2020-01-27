@@ -1,4 +1,4 @@
-import { Students } from "testapichild2";
+import { Students } from "testapichild3";
 
 function fStudents (fname, sname ) : string{
     // private fName: string;
